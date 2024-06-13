@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu Agrawal</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuagrawal2003&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuagrawal2003" /> </p>
 
-- 🌱 I’m currently learning **C++, Python**
+- 🌱 I’m currently learning **C, C++, Python, HTML CSS**
 
 - 📫 How to reach me **himanshuagrawal7766@gmail.com**
 
