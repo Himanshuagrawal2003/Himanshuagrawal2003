@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuagrawal2003&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuagrawal2003" /> </p>
 
-- 🌱 I’m currently learning **C, C++, Python, HTML CSS**
+- 🌱 I’m currently learning **C, C++, Python, HTML, CSS**
 
 - 📫 How to reach me **himanshuagrawal7766@gmail.com**
 
