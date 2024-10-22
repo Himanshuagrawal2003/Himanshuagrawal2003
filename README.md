@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Agrawal</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="himanshu-agrawal-software-developer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/himanshu-agrawal-software-developer?trk=profile-badge">Himanshu Agrawal</a></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuagrawal2003&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuagrawal2003" /> </p>
 
