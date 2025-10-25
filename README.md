@@ -63,11 +63,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/himanshuagrawal2003/himanshuagrawal2003/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 
 <h3 align="center">✨ Thanks for visiting my profile! Keep learning, keep building 🚀</h3>
