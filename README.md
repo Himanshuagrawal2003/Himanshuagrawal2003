@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://himanshuagrawal2003.github.io)
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00bfff;">Himanshu Agrawal</span></h1>
-<h3 align="center">💻  Passionate Software Engineer | MernStack Developer 🚀</h3>
+<h3 align="center">💻  Passionate Software Engineer | MERN Stack Developer 🚀</h3>
 
 ---
 
