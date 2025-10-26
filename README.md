@@ -35,7 +35,7 @@
 
 ### 🧰 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,mongodb,python,express,react,vscode,nodejs,git,github" height="45" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,mongodb,express,react,nodejs,tailwind,firebase,git,github" height="45" />
 </p>
 
 ---
