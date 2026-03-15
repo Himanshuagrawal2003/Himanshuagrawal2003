@@ -43,9 +43,13 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuagrawal2003&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshuagrawal2003&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=himanshuagrawal2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=himanshuagrawal2003&theme=tokyonight&hide_border=true" height="170"/>
+
 </p>
+
 
 ---
 
