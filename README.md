@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://himanshuagrawal2003.github.io)
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00bfff;">Himanshu Agrawal</span></h1>
-<h3 align="center">💻  Passionate Software Engineer | MERN Stack Developer 🚀</h3>
+<h3 align="center">💻 MERN Stack Developer | DSA Enthusiast | Aspiring Software Engineer</h3>
 
 ---
 
@@ -14,26 +14,34 @@
 
 ### 🌟 About Me  
 
-- 🧠 Currently exploring **Python, JavaScript and React**  
-- 🎯 Focused on **building scalable front-end experiences**  
-- 📫 Reach me at: **himanshuagrawal7766@gmail.com**  
-- ⚙️ Always open to collaborating on **innovative projects**
+🎓 B.Tech CSE Student | Aspiring Software Engineer  
+🧠 Data Structures & Algorithms with **C++**  
+💻 Building **Full Stack Applications using the MERN Stack**  
+🌱 Learning **React & Backend Development**
 
 ---
 
 ### 🤝 Connect With Me  
 <p align="center">
+
+  <a href="mailto:himanshuagrawal7766@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+
   <a href="https://www.linkedin.com/in/himanshu-agrawal-software-developer" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
+
   <a href="https://www.instagram.com/_himanshu.03/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
+
 </p>
 
 ---
 
-### 🧰 Languages & Tools  
+
+### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,python,mongodb,express,react,nodejs,tailwind,firebase,git,github" height="45" />
 </p>
@@ -53,7 +61,7 @@
 
 ---
 
-### 🗓️ Contribution Overview  
+### 📈 Contribution Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshuagrawal2003&theme=tokyonight" height="180" />
